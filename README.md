@@ -1,4 +1,4 @@
-# CalculandoAMedia
+# Averaging
 Curso Explorer - Rocketseat - Stage 4 - Desafio 2
 
 O que foi proposto nesse desafio:
